@@ -1,0 +1,4 @@
+[
+    { "lead_id": "L001", "name": "John Doe", "email": "john@example.com", "source": "Website", "campaign_id": "C001", "status": "Contacted", "date": "2024-10-01" },
+    { "lead_id": "L002", "name": "Jane Doe", "email": "jane@example.com", "source": "Ad", "campaign_id": "C002", "status": "Qualified", "date": "2024-10-02" }
+]

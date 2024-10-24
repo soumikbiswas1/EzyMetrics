@@ -1,0 +1,4 @@
+[
+    { "campaign_id": "C001", "name": "Fall Promotion", "start_date": "2024-09-01", "end_date": "2024-12-01" },
+    { "campaign_id": "C002", "name": "Winter Promotion", "start_date": "2024-11-01", "end_date": "2025-01-01" }
+  ]
